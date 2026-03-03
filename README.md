@@ -20,7 +20,7 @@ Four independent scripts have been created for experimentation on each dataset a
 ## Usage
 1. Clone the repository. 
 ```bash
-git clone https://github.com/RayhaanPirani/AnomalyDetectionEarlyWarningLoanDefaults.git
+git clone https://github.com/AnthonyKorie/AnomalyDetectionEarlyWarningLoanDefaults.git
 cd AnomalyDetectionEarlyWarningLoanDefaults
 ```
 2. Ensure that the expected versions of the libraries used are available. The `requirements.txt` file can be used to install the expected versions.
